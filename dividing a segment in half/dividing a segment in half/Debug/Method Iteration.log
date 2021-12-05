@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Method Iteration.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  dividing a distance in half.cpp
+C:\Users\Knight\Documents\C++\3 semestr\AlgWMaths\dividing a segment in half\dividing a segment in half\dividing a distance in half.cpp(51): warning C4715: method_distanceInHalf: значение возвращается не при всех путях выполнения
+  Method Iteration.vcxproj -> C:\Users\Knight\Documents\C++\3 semestr\AlgWMaths\dividing a segment in half\dividing a segment in half\Debug\dividing a segment in half.exe
